@@ -1,2 +1,2 @@
-# fsjs-binary-search-trees
-Project: Binary Search Trees
+# Project: Binary Search Trees
+Binary Search Trees project for the Full Stack JavaScript course
